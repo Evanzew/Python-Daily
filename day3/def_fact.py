@@ -22,6 +22,8 @@ def fact_ifter(num, product):
 
 print(first(5))
 
+# 汉诺塔
+
 
 def move(n, a, b, c):
     if n == 1:
