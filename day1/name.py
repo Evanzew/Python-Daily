@@ -1,2 +1,2 @@
-name= input('please enter your name : ');
-print('hello',name);
+name = input('please enter your name : ')
+print('hello', name)
